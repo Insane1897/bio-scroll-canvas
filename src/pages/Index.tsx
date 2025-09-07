@@ -28,37 +28,37 @@ const Index = () => {
   }, []);
 
   const personalDetails = [
-    { label: "Full Name", value: "Priya Sharma" },
-    { label: "Date of Birth", value: "15th March 1995" },
-    { label: "Time of Birth", value: "10:30 AM" },
-    { label: "Place of Birth", value: "Delhi, India" },
-    { label: "Height", value: "5'4\" (162 cm)" },
-    { label: "Weight", value: "55 kg" },
+    { label: "Full Name", value: "Indra Kishore Barman" },
+    { label: "Date of Birth", value: "18th July 1997" },
+    { label: "Time of Birth", value: "08:30 PM" },
+    { label: "Place of Birth", value: "Jabalpur, India" },
+    { label: "Height", value: "5'10\" (177 cm)" },
+    { label: "Weight", value: "72 kg" },
     { label: "Complexion", value: "Fair" },
-    { label: "Body Type", value: "Slim" },
+    { label: "Body Type", value: "Normal" },
     { label: "Manglik Status", value: "Non-Manglik" },
-    { label: "Education", value: "B.Tech Computer Science" },
-    { label: "Occupation", value: "Software Engineer" },
+    { label: "Education", value: "B.Tech and M.Tech Computer Science " },
+    { label: "Occupation", value: "Software Engineer at ORACLE" },
     { label: "Diet", value: "Vegetarian" },
-    { label: "Caste", value: "Brahmin" },
-    { label: "Gotra", value: "Bharadwaj" }
+    { label: "Caste", value: "Dheemar" },
+    { label: "Gotra", value: "Kashyap" }
   ];
 
   const familyDetails = [
-    { label: "Father's Name", value: "Mr. Rajesh Sharma" },
-    { label: "Father's Occupation", value: "Government Officer" },
-    { label: "Mother's Name", value: "Mrs. Sunita Sharma" },
-    { label: "Mother's Occupation", value: "Teacher" },
-    { label: "Brothers", value: "1 Elder Brother (Married)" },
-    { label: "Sisters", value: "None" },
+    { label: "Father's Name", value: "Mr. Kaushal Kishore Barman" },
+    { label: "Father's Occupation", value: "Government Teacher" },
+    { label: "Mother's Name", value: "Mrs. Shashi Barman" },
+    { label: "Mother's Occupation", value: "Government Teacher" },
+    { label: "Brothers", value: "1 Elder Brother (Married) Works at Indian Railways" },
+    { label: "Sisters", value: "1 Elder Sister (Married)" },
     { label: "Family Type", value: "Nuclear Family" },
     { label: "Family Values", value: "Traditional with Modern Outlook" }
   ];
 
   const contactDetails = [
-    { label: "Address", value: "Sector 15, Dwarka, New Delhi - 110075" },
-    { label: "Phone Number", value: "+91 98765 43210" },
-    { label: "Email", value: "priya.sharma@email.com" },
+    { label: "Address", value: "Paliwal Colony, Station Road, Sihora, Jabalpur MP - 483225" },
+    { label: "Phone Number", value: "+91 91796 46443" },
+    { label: "Email", value: "indrakishore234@email.com" },
     { label: "Preferred Contact Time", value: "6:00 PM - 9:00 PM" }
   ];
 

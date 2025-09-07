@@ -6,7 +6,7 @@ import casualPhoto from '../assets/casual-photo.jpg';
 export const PhotoGallery: React.FC = () => {
   const photos = [
     { src: profilePhoto, alt: "Profile Photo", caption: "Formal Portrait" },
-    { src: familyPhoto, alt: "Family Photo", caption: "With Family" },
+    { src: familyPhoto, alt: "Family Photo", caption: "Some More" },
     { src: casualPhoto, alt: "Casual Photo", caption: "Casual Look" }
   ];
 

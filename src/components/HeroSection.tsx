@@ -24,11 +24,11 @@ export const HeroSection: React.FC = () => {
 
           {/* Name and title */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-4">
-            <span className="gradient-text">Priya Sharma</span>
+            <span className="gradient-text">Indra Kishore Barman</span>
           </h1>
           
           <p className="text-xl sm:text-2xl text-muted-foreground mb-8 font-light">
-            Software Engineer • Delhi, India
+            Software Engineer • Jabalpur, India
           </p>
 
           {/* Scroll indicator */}
