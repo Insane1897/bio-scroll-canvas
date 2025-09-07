@@ -29,4 +29,8 @@ export default defineConfig({
   build: {
     minify: false, // <-- Add this to disable minification for debugging
   },
+  resolve: {
+      alias: {
+        "@": path.resolve(__dirname, "./src"),
+      },
 })
