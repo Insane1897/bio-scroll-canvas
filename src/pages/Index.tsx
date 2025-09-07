@@ -143,7 +143,6 @@ const Index = () => {
                 Seeking a caring and understanding partner who values family traditions 
                 while embracing modern values. Education and mutual respect are important to me.
               </p>
-              <button className="bg-gradient-to-r from-primary to-accent text-white px-8 py-3 rounded-full font-semibold hover:shadow-lg transition-all duration-300 hover:scale-105">
                     <a
                       href="https://wa.me/919179646443?text=Hello,%20I%20saw%20your%20biodata."
                       target="_blank"
@@ -152,7 +151,6 @@ const Index = () => {
                     >
                       Connect With Me
                     </a>
-              </button>
             </div>
           </div>
         </div>
